@@ -1,0 +1,4 @@
+newstopicminig
+==============
+
+mining news topic
